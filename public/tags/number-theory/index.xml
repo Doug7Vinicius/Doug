@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>number theory | Douglas Vinícius</title>
+    <link>/tags/number-theory/</link>
+      <atom:link href="/tags/number-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>number theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Douglas Vinícius 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/sombrero.jpg</url>
+      <title>number theory</title>
+      <link>/tags/number-theory/</link>
+    </image>
+    
+    <item>
+      <title>Prime Number Theory</title>
+      <link>/publication/prime/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/prime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prime Numbers</title>
+      <link>/project/number-theory/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/number-theory/</guid>
+      <description>&lt;p&gt;in progress&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

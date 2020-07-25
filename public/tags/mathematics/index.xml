@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathematics | Douglas Vinícius</title>
+    <link>/tags/mathematics/</link>
+      <atom:link href="/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <description>mathematics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Douglas Vinícius 2020</copyright><lastBuildDate>Tue, 22 Sep 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/sombrero.jpg</url>
+      <title>mathematics</title>
+      <link>/tags/mathematics/</link>
+    </image>
+    
+    <item>
+      <title>SEMAT XX</title>
+      <link>/talk/2020-sematxx/</link>
+      <pubDate>Tue, 22 Sep 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/2020-sematxx/</guid>
+      <description>
+
+
+&lt;p&gt;The &lt;a href=&#34;http://www.dmejp.unir.br/&#34;&gt;Department of Mathematics and Statistics of the Federal University of Rondônia&lt;/a&gt; - &lt;a href=&#34;https://www.unir.br/&#34;&gt;UNIR&lt;/a&gt;, Campus of Ji-Paraná, has held for 19 years an event that takes place annually, called Mathematics Week.&lt;/p&gt;
+&lt;p&gt;This event is considered to be one of the most important at the state level, since it brings together the universe of different segments involved in Mathematics: teachers of Basic Education, Teachers and Students of the Bachelor’s Degrees in Mathematics and Pedagogy, Graduate Students and Researchers.&lt;/p&gt;
+&lt;p&gt;Among the objectives of the event is to disseminate and socialize research developed by academics, researchers from UNIR and other universities, as well as teachers of Basic Education. In addition to stimulating students’ interest in different areas of mathematics knowledge.&lt;/p&gt;
+&lt;p&gt;This year, the event addresses the theme “Mathematics and some of its ramifications: Pure Mathematics, Applied Mathematics and Mathematical Education. All together and mixed?”.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

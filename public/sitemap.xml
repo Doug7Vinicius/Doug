@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/analysis/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/book/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <loc>/talk/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,6 +14,46 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mathematics/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/semat/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-sematxx/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/talks/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/workshop/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/analysis/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/book/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +79,6 @@
   
   <url>
     <loc>/project/survival/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,11 +143,6 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/douglas-vinicius/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -133,7 +158,7 @@
   </url>
   
   <url>
-    <loc>/talk/2019-dplyr/</loc>
+    <loc>/talk/2019-sematxix/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,0 +1,37 @@
+---
+title: SEMAT XX 
+draft: false
+event: 'SEMAT XX 2020'
+event_url: http://www.sematjp.unir.br/homepage
+location: Ji-Paraná, RO
+summary: "The Department of Mathematics and Statistics of the Federal University of Rondônia - UNIR, Campus of Ji-Paraná, has held for 19 years an event that takes place annually, called Mathematics Week."
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2020-09-22T13:00:00Z"
+date_end: "2020-09-25T17:00:00Z"
+all_day: false
+publishdate: "2020-07-25"
+
+categories:
+  - workshop
+  - talks
+tags:
+  - mathematics
+  - semat
+lastmod: '2019-06-16T02:20:01-07:00'
+featured: no
+image:
+  caption: '[Banner SEMAT XX](http://www.sematjp.unir.br/pagina/exibir/12679)'
+  focal_point: 'center'
+  preview_only: no
+projects: []
+---
+
+The [Department of Mathematics and Statistics of the Federal University of Rondônia](http://www.dmejp.unir.br/) - [UNIR](https://www.unir.br/), Campus of Ji-Paraná, has held for 19 years an event that takes place annually, called Mathematics Week.
+
+This event is considered to be one of the most important at the state level, since it brings together the universe of different segments involved in Mathematics: teachers of Basic Education, Teachers and Students of the Bachelor's Degrees in Mathematics and Pedagogy, Graduate Students and Researchers.
+
+Among the objectives of the event is to disseminate and socialize research developed by academics, researchers from UNIR and other universities, as well as teachers of Basic Education. In addition to stimulating students' interest in different areas of mathematics knowledge.
+
+This year, the event addresses the theme "Mathematics and some of its ramifications: Pure Mathematics, Applied Mathematics and Mathematical Education. All together and mixed?".

@@ -1,7 +1,7 @@
 ---
 abstract: in progress...
 authors:
-- admin
+- Douglas Vinícius
 date: "2020-02-01T00:00:00Z"
 doi: ""
 featured: true
@@ -21,7 +21,7 @@ tags:
 - Cox
 - Survival
 - Regression
-title: Cox Regression Analysis
+title: Cox Regression Analysis in Criminal Recidivism
 url_code: ""
 url_dataset: ""
 url_pdf: "#"

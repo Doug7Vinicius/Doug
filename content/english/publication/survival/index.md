@@ -1,7 +1,7 @@
 ---
 abstract: in progress...
 authors:
-- admin
+- Douglas Vinícius
 date: "2020-01-01T00:00:00Z"
 doi: ""
 featured: true

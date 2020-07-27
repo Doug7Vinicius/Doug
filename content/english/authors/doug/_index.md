@@ -31,6 +31,6 @@ social:
 superuser: true
 ---
 
-...
+“Given the vastness of time and the immensity of the universe, it is an immense pleasure for me to share a planet and a time with you.” - Carl Sagan
 
 

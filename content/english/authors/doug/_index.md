@@ -1,7 +1,7 @@
 ---
 authors:
 - doug
-bio: I'm a developmental psychologist, former NIH Principal Investigator, and autism researcher who loves programming.
+bio: It is not the text, but the texture that makes us human.
 education:
   courses:
   - course: Bachelor of Statistics

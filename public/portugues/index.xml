@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portugues | Douglas Vinícius</title>
+    <link>/portugues/</link>
+      <atom:link href="/portugues/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portugues</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Douglas Vinícius 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 13:20:36 -0400</lastBuildDate>
+    <image>
+      <url>/img/sombrero.jpg</url>
+      <title>Portugues</title>
+      <link>/portugues/</link>
+    </image>
+    
+    <item>
+      <title>2020 07 27 Problema De Basileia</title>
+      <link>/portugues/post/2020-07-27-problema-de-basileia/</link>
+      <pubDate>Mon, 27 Jul 2020 13:20:36 -0400</pubDate>
+      <guid>/portugues/post/2020-07-27-problema-de-basileia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020 07 27 Problema De Basileia</title>
+      <link>/portugues/post/2020-07-27-problema-de-basileia.pt/</link>
+      <pubDate>Mon, 27 Jul 2020 13:12:50 -0400</pubDate>
+      <guid>/portugues/post/2020-07-27-problema-de-basileia.pt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

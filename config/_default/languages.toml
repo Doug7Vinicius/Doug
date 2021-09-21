@@ -18,22 +18,22 @@
 #    name = "Sobre"
 #    url = "/about"
 #    weight = 10
-#
+
 #  [[pt.menu.main]]
 #    name = "Blog"
 #    url = "/post"
 #    weight = 20
-#
+
 #  [[pt.menu.main]]
 #    name = "Palestras"
 #    url = "/talks"
 #    weight = 30
-#
+
 #  [[pt.menu.main]]
 #    name = "Projetos"
 #    url = "/projects"
 #    weight = 40
-#  
+  
 #  [[pt.menu.main]]
 #    name = "CV"
 #    url = "/resume"

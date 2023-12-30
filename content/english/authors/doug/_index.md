@@ -1,23 +1,25 @@
 ---
 authors:
 - doug
-bio: It is not the text, but the texture that makes us human.
+title: Douglas Vinícius
+bio: Não é o texto, mas a textura que nos torna humanos.
 education:
   courses:
-  - course: Bachelor of Statistics
-    institution: Federal University of Rondônia
-    year: 2020
+  - course: Bacharel em Estatística
+    institution: Universidade Federal de Rondônia
+    year: 2023
 email: ""
 interests:
-- Survival Analysis
-- Data analysis
-- Data visualization
-- Number Theory
+- Teoria dos Números
+- Análise de Sobrevivência
+- Modelagem de Risco de Crédito
+- Análise e Visualização de Dados
+- Programação em R/Python
 name: Douglas Vinícius
-organizations:
-- name: Federal University of Rondônia
-  url: https://www.unir.br/
-role: Academic of Statistics
+#organizations:
+#- name: Tribunal Regional Eleitoral - TRE
+#  url: https://www.unir.br/
+#role: Analista Judiciário - TRE
 social:
 - icon: github
   icon_pack: fab
@@ -27,10 +29,8 @@ social:
   link: https://www.linkedin.com/in/douglasvinicius777/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/apreshill
+  link: https://twitter.com/doug7_vin
 superuser: true
 ---
 
-*“Given the vastness of time and the immensity of the universe, it is an immense pleasure for me to share a planet and a time with you.”* - Carl Sagan
-
-
+*“Dada a vastidão do tempo e a imensidão do universo, é um imenso prazer para mim compartilhar um planeta e um tempo com vocês.”* - Carl Sagan

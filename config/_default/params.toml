@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A data science blog and portfolio by Douglas Vinícius"
+description = "Portifólio de matemática e análise de dados, de Douglas Vinícius"
 
 ############################
 ## Site Features
@@ -211,10 +211,10 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
-
+  engine = 2
+  
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = true, docs = true, project = true, publication = false, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]

@@ -3,8 +3,8 @@ active: true
 autolink: true
 email_form: 0
 headless: true
-subtitle: "This form is for contacting."
-title: Hi there!
+subtitle: "Contatos"
+title: Olá
 weight: 100
 widget: contact
 ---

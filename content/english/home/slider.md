@@ -2,8 +2,8 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -23,7 +23,7 @@ height = "325px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "headers/pomegranate.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/pilares.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -40,7 +40,7 @@ height = "325px"
   align = "left"
 
   overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "headers/daisy.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/atacama.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   
   cta_label = "see my projects"
@@ -54,7 +54,7 @@ height = "325px"
   align = "right"
 
   overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "headers/tulip.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/Uyuni-102.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   cta_label = "see my projects"

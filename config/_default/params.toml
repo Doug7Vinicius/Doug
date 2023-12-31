@@ -58,7 +58,7 @@ highlight_style = "tomorrow"  # For supported styles, see https://cdnjs.com/libr
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -105,10 +105,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/apreshill"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "RStudio Community", link = "https://community.rstudio.com/"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@Doug_7"},
   ]
 
 ############################
@@ -214,7 +212,7 @@ plugins_js  = []
   engine = 2
   
   # Which page types are commentable?
-  commentable = {page = false, post = true, docs = true, project = true, publication = false, talk = true}
+  commentable = {page = false, post = true, docs = false, project = true, publication = false, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]

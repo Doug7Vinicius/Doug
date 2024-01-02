@@ -4,7 +4,7 @@ autolink: true
 email_form: 0
 headless: true
 subtitle: "Contatos"
-title: Olá
+title: Os meus
 weight: 100
 widget: contact
 ---

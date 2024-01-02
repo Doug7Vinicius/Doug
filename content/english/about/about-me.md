@@ -47,7 +47,6 @@ subtitle = ""
  css_class = "mini"
 +++
 
-
-I am a statistics scholar, seeking to understand what is apparently chaotic and to see hidden patterns.
+*"Tenho a impressão de ter sido uma criança brincando à beira-mar, divertindo-me em descobrir uma pedrinha mais lisa ou uma concha mais bonita que as outras, enquanto o imenso oceano da verdade continua misterioso diante de meus olhos."* - Isaac Newton
 
 <img src="math1.jpg" class="center-block" alt="OHSU Research Week Poster" style="width:50%;">

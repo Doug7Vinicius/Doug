@@ -1,9 +1,9 @@
 ---
 aliases: [arm]
 title: Modelagem de Risco de Crédito
-summary: in progress... 
+summary: Em construção...
 abstract: ""
-date: "2020-07-20T00:00:00Z"
+date: "2024-01-02T00:00:00Z"
 image:
   caption: '[]()'
   focal_point: Smart
@@ -20,6 +20,8 @@ tags:
 - R
 - analysis
 - shiny
+- credit
+- modelling
 ---
 
-in progess...
+Em construção...

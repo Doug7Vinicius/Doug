@@ -1,8 +1,8 @@
 ---
-abstract: in progress...
+abstract: Em breve...
 authors:
 - Douglas Vinícius
-date: "2020-02-01T00:00:00Z"
+date: "2023-04-25T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -16,12 +16,12 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: in progress...
+summary: Em breve...
 tags:
 - Cox
 - Survival
 - Regression
-title: Cox Regression Analysis in Criminal Recidivism
+title: Análise de Sobrevivêncai Aplicada em Rotatividade de Clientes de uma Instituição Financeira.
 url_code: ""
 url_dataset: ""
 url_pdf: "#"

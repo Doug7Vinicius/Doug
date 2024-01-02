@@ -1,18 +1,18 @@
 ---
-title: Logisitic Regression
+title: Modelo de Regressão Logístico
 author: Douglas Vinícius
-date: '2021-09-21'
+date: '2024-01-02'
 slug: []
 categories:
   - post
 tags:
   - logistic
-  - Regression
+  - regression
   - R
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-09-21T22:27:22-04:00'
+lastmod: '2024-01-02T22:27:22-04:00'
 featured: no
 image:
   caption: ''
@@ -22,4 +22,4 @@ projects: []
 ---
 
 
-in progress...
+Em construção...

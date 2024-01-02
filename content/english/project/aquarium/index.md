@@ -1,9 +1,9 @@
 ---
 aliases: [arm]
-title: Aquario
-summary: in progress... 
+title: Aquário Automatizado - Parte 1
+summary: Em construção...
 abstract: ""
-date: "2020-07-20T00:00:00Z"
+date: "2024-01-02T00:00:00Z"
 image:
   caption: '[]()'
   focal_point: Smart
@@ -16,10 +16,10 @@ links:
 categories:
 - book
 tags:
-- survival
+- python
 - R
-- analysis
-- shiny
+- aquario
+- arduino
 ---
 
-in progess...
+Em construção...

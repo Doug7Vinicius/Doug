@@ -10,11 +10,9 @@ education:
     year: 2023
 email: ""
 interests:
-- Teoria dos Números
 - Análise de Sobrevivência
-- Modelagem de Risco de Crédito
 - Análise e Visualização de Dados
-- Programação em R/Python
+- Programação em R
 name: Douglas Vinícius
 #organizations:
 #- name: Tribunal Regional Eleitoral - TRE
